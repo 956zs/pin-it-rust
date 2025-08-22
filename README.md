@@ -14,7 +14,7 @@ A blazing-fast Discord bot written in Rust using the Serenity framework for pinn
 
 ## Performance Comparison
 
-| Metric | Python Original | Rust Version | Improvement |
+| Metric | [Python Original](https://github.com/nelsonGX/pin-it) | Rust Version | Improvement |
 |--------|----------------|--------------|-------------|
 | Memory Usage | ~50MB | ~8MB | 84% reduction |
 | Startup Time | 3s | 0.5s | 83% faster |
